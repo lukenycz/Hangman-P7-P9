@@ -18,8 +18,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let buttonView = UIView()
-        
         let width = 150
         let height = 80
         
